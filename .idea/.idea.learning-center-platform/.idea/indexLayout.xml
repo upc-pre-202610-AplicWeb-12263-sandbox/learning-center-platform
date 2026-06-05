@@ -5,6 +5,21 @@
     <explicitIncludes>
       <Path>.git</Path>
       <Path>.gitignore</Path>
+      <Path>Acme.Center.Platform/Iam/Application</Path>
+      <Path>Acme.Center.Platform/Iam/Domain</Path>
+      <Path>Acme.Center.Platform/Iam/Infrastructure</Path>
+      <Path>Acme.Center.Platform/Iam/Interfaces</Path>
+      <Path>Acme.Center.Platform/Iam/Resources</Path>
+      <Path>Acme.Center.Platform/Profiles/Application</Path>
+      <Path>Acme.Center.Platform/Profiles/Domain</Path>
+      <Path>Acme.Center.Platform/Profiles/Infrastructure</Path>
+      <Path>Acme.Center.Platform/Profiles/Interfaces</Path>
+      <Path>Acme.Center.Platform/Profiles/Resources</Path>
+      <Path>Acme.Center.Platform/Publishing/Application</Path>
+      <Path>Acme.Center.Platform/Publishing/Domain</Path>
+      <Path>Acme.Center.Platform/Publishing/Infrastructure</Path>
+      <Path>Acme.Center.Platform/Publishing/Interfaces</Path>
+      <Path>Acme.Center.Platform/Publishing/Resources</Path>
       <Path>Acme.Center.Platform/Shared/Application</Path>
       <Path>Acme.Center.Platform/Shared/Domain</Path>
       <Path>Acme.Center.Platform/Shared/Infrastructure</Path>
