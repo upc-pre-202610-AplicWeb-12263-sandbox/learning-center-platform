@@ -5,6 +5,11 @@
     <explicitIncludes>
       <Path>.git</Path>
       <Path>.gitignore</Path>
+      <Path>Acme.Center.Platform/Shared/Application</Path>
+      <Path>Acme.Center.Platform/Shared/Domain</Path>
+      <Path>Acme.Center.Platform/Shared/Infrastructure</Path>
+      <Path>Acme.Center.Platform/Shared/Interfaces</Path>
+      <Path>Acme.Center.Platform/Shared/Resources</Path>
       <Path>Dockerfile</Path>
       <Path>LICENSE.md</Path>
       <Path>README.md</Path>
