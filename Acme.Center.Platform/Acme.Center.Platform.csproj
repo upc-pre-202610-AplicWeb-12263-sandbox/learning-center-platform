@@ -44,10 +44,9 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Iam\" />
       <Folder Include="Migrations\" />
-      <Folder Include="Profiles\" />
-      <Folder Include="Publishing\" />
+      <Folder Include="Profiles__\" />
+      <Folder Include="Publishing__\" />
     </ItemGroup>
 
 </Project>
